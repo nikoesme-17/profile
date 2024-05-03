@@ -1,0 +1,78 @@
+h1 {
+  font-family: 'Merrieweather', serif, sans-serif;
+  color: rgb(154, 153, 153);
+  line-height: 30px;
+}
+
+h2 {
+  color: rgb(102, 136, 136);
+
+}
+i {
+  color: rgb(102, 136, 136);
+  font-size: 20px;
+}
+i:hover {
+  background-color: rgba(221, 7, 7, 0.45);
+}
+
+.card {
+  background-color: rgba(202, 198, 198, 0.801);
+  box-shadow: 0px 0px 30px rgba(0,0,0,0.2);
+  text-align: center;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+img {
+  width: 200px;
+  border-radius: 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline;
+}
+.my-recipes {
+  background-color: rgb(41, 162, 199);
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+}
+
+.my-recipes:hover {
+  background-color: rgb(9, 74, 93);
+}
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.my-trip {
+  background-color: rgb(41, 162, 199);
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+}
+
+.my-trip:hover {
+  background-color: rgb(9, 74, 93);
+}
+/* .card {
+  box-shadow: 0px, 0px, 30px, rgba(0,0,0,0.2);
+} */
+/* .my-recipes{
+  background-color: red;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+}
+.my-recipes:hover {
+background-color: rgb(142, 8, 8);
+}
